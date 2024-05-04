@@ -3,7 +3,7 @@
   font-family: "Oswald", monospace;
   text-transform: uppercase;
   color: #fff;
-  
+  overflow: scroll;
 }
 .container{
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsucgDlxAC2cOmW062XYzM1s0eJF4IaskbvwmNp6o5ig1kr3Jmp-OPqnw&s=10");
